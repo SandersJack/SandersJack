@@ -5,5 +5,3 @@ CERN Gitlab account: https://gitlab.cern.ch/jsanders
 [![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackdsanders/)
                                                                                               
 #![Metrics](/github-metrics.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandersJack&layout=donut&hide=jupyter%20notebook))](https://github.com/anuraghazra/github-readme-stats)
