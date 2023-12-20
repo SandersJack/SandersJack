@@ -1,4 +1,4 @@
-Hi, Welcome to my GitHub! I am a PhD Researcher at the University of Birmingham, working on the NA62 Experiment at CERN. I Spend most of my time developing offline software for the Collaboration, mainly in C++.
+Hi, Welcome to my GitHub! I am a PhD Researcher at the University of Birmingham, working on the NA62 Experiment at CERN. I spend most of my time developing offline software for the Collaboration, mainly in C++.
 CERN Gitlab account: https://gitlab.cern.ch/jsanders
 
 
