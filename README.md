@@ -10,6 +10,11 @@
     <p>I enjoy creating simulations and conducting data analysis on large datasets, such as my search for Dark Photon signals in the NA62 data</p>
 </div>
 
+<div id="skills">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<\div>
+
 </div>
 
 
