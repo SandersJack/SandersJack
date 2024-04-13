@@ -1,4 +1,4 @@
-<header style="background-color: #0366d6; color: #fff; padding: 20px; text-align: center;">
+<header>
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
 </header>
 
@@ -9,6 +9,24 @@
     <p>I am a PhD Researcher at The University of Birmingham, working within the NA62 Collaboration. I am heavily involved in the development of the NA62 framework written in C++.</p>
     <p>I enjoy creating simulations and conducting data analysis on large datasets, such as my search for Dark Photon signals in the NA62 data</p>
 </div>
-sin
 
 </div>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header {
+    background-color: #0366d6;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+</style>
+
