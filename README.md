@@ -2,7 +2,7 @@
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
 </header>
 
-<div class="container">
+<div id="container">
 
 <div id="about">
     <h2>About Me</h2>
@@ -12,21 +12,4 @@
 
 </div>
 
-<style>
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f9fa;
-    color: #333;
-}
-
-header {
-    background-color: #0366d6;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-}
-</style>
 
