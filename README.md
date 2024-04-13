@@ -11,13 +11,10 @@
 </div>
 
 <div align="center">
-  ---
-
-  ### 
-  <h2>:abacus: Languages </h2>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,git,py,docker,c,cpp,sqlite,html,css" />
-</p>
+    <h2>:abacus: Languages </h2>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,git,py,docker,c,cpp,sqlite,html,css" />
+    </p>
 </div>
 
 </div>
