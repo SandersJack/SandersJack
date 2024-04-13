@@ -1,6 +1,6 @@
-<header align="center">
+<div align="center">
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
-</header>
+</div>
 
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg1Y3dzdWQydjEzMjR6azVmeXh5YzV3YmRpanl0OWthYmM1Y3FqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRgqJIdbRp7Exfa/giphy.gif" width="200" height="200" />
