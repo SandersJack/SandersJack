@@ -2,9 +2,9 @@
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
 </header>
 
-![Alt Text][https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ieXVrMzluODE0aDFhaWg0bjVscGlncnhxeG82YWVrMmU0NWg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsvCk59AwGX28XS/giphy.gif]
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ieXVrMzluODE0aDFhaWg0bjVscGlncnhxeG82YWVrMmU0NWg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsvCk59AwGX28XS/giphy.gif)
 
-
+<iframe src="https://giphy.com/embed/26gsvCk59AwGX28XS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fire-camping-26gsvCk59AwGX28XS">via GIPHY</a></p>
 <div align="center">
 
 <div align="center">
