@@ -1,4 +1,4 @@
-<header>
+<header style="background-color: #0366d6; color: #fff; padding: 20px; text-align: center;">
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
 </header>
 
