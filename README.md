@@ -4,20 +4,20 @@
 
 <div class="container">
 
-    <section id="about">
+    <div id="about">
         <h2>About Me</h2>
         <p>I'm a passionate [Your Profession] from [Your Location]. I love building [Your Favorite Technologies] and
             exploring new technologies and tools.</p>
-    </section>
+    </div>
 
-    <section id="skills">
+    <div id="skills">
         <h2>Skills</h2>
         <ul>
             <li>Languages: [Your Programming Languages]</li>
             <li>Frameworks: [Your Frameworks]</li>
             <li>Tools: [Your Tools]</li>
         </ul>
-    </section>
+    </div>
 
     <section id="projects">
         <h2>Projects</h2>
