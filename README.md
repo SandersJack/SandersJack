@@ -2,8 +2,10 @@
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
 </header>
 
-<div align="center">
 ![Alt Text][https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ieXVrMzluODE0aDFhaWg0bjVscGlncnhxeG82YWVrMmU0NWg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsvCk59AwGX28XS/giphy.gif]
+
+
+<div align="center">
 
 <div align="center">
     <h2>About Me</h2>
