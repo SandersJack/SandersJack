@@ -12,7 +12,7 @@
 
 <h2>My Skills</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,py,docker,c,cpp,linux,sql" />
+    <img src="https://skillicons.dev/icons?i=linux,git,py,docker,c,cpp,sqlite,html,css" />
 </p>
 
 
