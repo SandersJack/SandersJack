@@ -1,8 +1,9 @@
-<header>
+<header align="center">
     <h1>Hello, I'm Jack and welcome to my GitHub Page!</h1>
 </header>
 
 <div align="center">
+    <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/Nf6wctBeCKF63EZkgN/video" width="480"></iframe></div>
 
 <div align="center">
     <h2>About Me</h2>
