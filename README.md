@@ -4,9 +4,6 @@
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21ieXVrMzluODE0aDFhaWg0bjVscGlncnhxeG82YWVrMmU0NWg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsvCk59AwGX28XS/giphy.gif)
 
-<iframe src="https://giphy.com/embed/26gsvCk59AwGX28XS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fire-camping-26gsvCk59AwGX28XS">via GIPHY</a></p>
-<div align="center">
-
 <div align="center">
     <h2>About Me</h2>
     <p>I am a PhD Researcher at The University of Birmingham, working within the NA62 Collaboration. I am heavily involved in the development of the NA62 framework written in C++.</p>
