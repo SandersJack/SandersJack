@@ -8,6 +8,11 @@
     <p>I am a PhD Researcher at The University of Birmingham, working within the NA62 Collaboration. I am heavily involved in the development of the NA62 framework written in C++.</p>
     <p>I enjoy creating simulations and conducting data analysis on large datasets, such as my search for Dark Photon signals in the NA62 data</p>
     <p>After my PhD I hope to become a Software Developer/Data Analyst</p>
+
+<a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-YourWebsiteName-brightgreen" alt="Personal Website">
+</a>
+
 </div>
 
 <div align="center">
