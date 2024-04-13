@@ -11,7 +11,7 @@
 </div>
 
 <h2>My Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css, sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,sql)](https://skillicons.dev)
 
 
 </div>
