@@ -3,7 +3,7 @@
 </header>
 
 <div align="center">
-    ![Alt Text]["https://giphy.com/embed/Nf6wctBeCKF63EZkgN/video](https://giphy.com/clips/SolSquatch-cartoon-fire-campfire-Nf6wctBeCKF63EZkgN"]
+![Alt Text]["https://giphy.com/embed/Nf6wctBeCKF63EZkgN/video](https://giphy.com/clips/SolSquatch-cartoon-fire-campfire-Nf6wctBeCKF63EZkgN"]
 
 <div align="center">
     <h2>About Me</h2>
