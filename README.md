@@ -10,12 +10,14 @@
     <p>I enjoy creating simulations and conducting data analysis on large datasets, such as my search for Dark Photon signals in the NA62 data</p>
 </div>
 
-<h2>My Skills</h2>
+<div align="left">
+  ---
+
+  ### :hammer_and_wrench: Languages and Tool
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,git,py,docker,c,cpp,sqlite,html,css" />
 </p>
-
-
+</div>
 
 </div>
 
