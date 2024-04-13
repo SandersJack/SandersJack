@@ -10,7 +10,7 @@
     <p>After my PhD I hope to become a Software Developer/Data Analyst</p>
 
 <a href="[https://yourwebsite.com](https://portfolio.jack-sanders.uk/)">
-    <img src="https://img.shields.io/badge/Website-red" alt="Personal Website" width="100", height="25">
+    <img src="https://img.shields.io/badge/Portfolio-red" alt="Personal Website" width="100", height="25">
 </a>
 
 
