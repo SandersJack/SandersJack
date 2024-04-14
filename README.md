@@ -9,7 +9,7 @@
     <p>I enjoy creating simulations and conducting data analysis on large datasets, such as my search for Dark Photon signals in the NA62 data</p>
     <p>After my PhD I hope to become a Software Developer/Data Analyst</p>
 
-<a href="[https://yourwebsite.com](https://portfolio.jack-sanders.uk/)">
+<a href="https://portfolio.jack-sanders.uk/">
     <img src="https://img.shields.io/badge/Portfolio-red" alt="Personal Website" width="100", height="25">
 </a>
 
